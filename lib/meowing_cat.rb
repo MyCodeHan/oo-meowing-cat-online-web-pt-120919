@@ -1,6 +1,6 @@
 ## code your solution here. 
-def Cat (maru) 
+def cat (maru) 
   attr_accessor
   @cat
-  let cat.new
+  let :maru cat.new
 end 
