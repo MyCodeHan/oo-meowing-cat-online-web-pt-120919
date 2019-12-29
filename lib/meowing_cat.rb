@@ -2,5 +2,5 @@
 def cat (maru) 
   attr_accessor
   @cat
-  let :maru cat.new
+  let  cat.new
 end 
