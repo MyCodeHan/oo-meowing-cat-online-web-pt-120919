@@ -1,4 +1,5 @@
 ## code your solution here. 
 def Cat (maru) 
-  let Cat.new
+  attr_accessor
+  let Cat.meow
 end 
